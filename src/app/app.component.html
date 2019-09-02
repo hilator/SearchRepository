@@ -1,0 +1,21 @@
+<p style="padding-left:20px;">
+  Angular Application searchpage example!
+</p>
+<hr>
+<!-- <input type="button" name="postBtn" style="width:200px;height:25px" (click)="PostData()" value="Execute Http Post Call" />
+<br> {{retPostData}}
+<input type="button" name="getBtn" style="width:200px;height:25px" (click)="GetData()" value="Execute Http Get Call" />
+<br> {{retGetData}}
+/> -->
+<div style="padding-left:20px;">
+  <input (keyup)="onKey($event)">
+  <input class="btn btn-primary" type="button" name="getBtn" (click)="GetSearchData()" value="Execute Http Get Search Call" />
+</div>
+
+
+<div *ngFor="let item of retGetSearchData.items">
+  <button class="btn btn-success" (click)="GetChooseData(item.id ,item.name,item.owner.avatar_url)">Save Favorite</button>
+  {{item.name}}
+  <img class="img-circle" style=" width:8%" alt="SerchImage" src="{{item.owner.avatar_url}}">
+</div>
+<!-- <br> {{data.name}} -->

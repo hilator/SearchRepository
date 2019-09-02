@@ -1,0 +1,14 @@
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\bin\Debug\netcoreapp2.2\Angular6Project.dll
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\bin\Debug\netcoreapp2.2\Angular6Project.deps.json
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\bin\Debug\netcoreapp2.2\Angular6Project.runtimeconfig.json
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\bin\Debug\netcoreapp2.2\Angular6Project.runtimeconfig.dev.json
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.csproj.CoreCompileInputs.cache
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.RazorAssemblyInfo.cache
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.RazorAssemblyInfo.cs
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.AssemblyInfoInputs.cache
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.AssemblyInfo.cs
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.RazorTargetAssemblyInfo.cache
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.dll
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.pdb
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\bin\Debug\netcoreapp2.2\Angular6Project.pdb
+C:\Users\Lily\source\repos\Angular6Project\Angular6Project\obj\Debug\netcoreapp2.2\Angular6Project.csprojAssemblyReference.cache
